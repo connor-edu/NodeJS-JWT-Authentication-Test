@@ -1,0 +1,6 @@
+{
+  "extends": ["a1motion"],
+  "rules": {
+    "comma-spacing": 0,
+  }
+}
